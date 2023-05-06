@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm UmbrellaSkiies</h1>
-<h3 align="center">A Full-Stack Web Developer | Front-end | Back-end </h3>
+<h3 align="center">A Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umbrellaskiies&label=Profile%20views&color=0e75b6&style=flat" alt="umbrellaskiies" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umbrellaskiies" alt="umbrellaskiies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=umbrellaskiies](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15)" alt="umbrellaskiies" /></a> </p>
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
 
 
 As a Full Stack Web Developer, I'm keen to work on a team that solves problems creatively. I am able to pick up new technology rapidly and put them to use. Ruby on Rails, HTML5, CSS3, Javascript, jQuery, PHP, and Wordpress are among my expertises. Four years ago, I self-taught these abilities.
