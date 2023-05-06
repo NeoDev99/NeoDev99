@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umbrellaskiies&label=Profile%20views&color=0e75b6&style=flat" alt="umbrellaskiies" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=umbrellaskiies](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15)" alt="umbrellaskiies" /></a> </p>
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umbrellaskiies&column=6&margin-w=15&margin-h=15" alt="umbrellaskiies" /></a> </p>
 
 As a Full Stack Web Developer, I'm keen to work on a team that solves problems creatively. I am able to pick up new technology rapidly and put them to use. Ruby on Rails, HTML5, CSS3, Javascript, jQuery, PHP, and Wordpress are among my expertises. Four years ago, I self-taught these abilities.
 
@@ -15,10 +12,11 @@ As a Full Stack Web Developer, I'm keen to work on a team that solves problems c
 - 👀 I’m interested in learning everything there is to learn about Technology.
 - 👨‍🎓 I completed my Diploma in Information Technology (IT) in 2022
 - 👯 I’m looking to collaborate on any project for the purpose of learning.
+- 🔭 I’m currently working on [README.md](https://github.com/UmbrellaSkiies/UmbrellaSkiies/edit/main/README.md)
 - 🌱 I’m currently learning **MERN (MongoDB, Express.js, React, and Node.js) Stack**
 - 🥅 2023 Goals: Contribute & collaborate on more projects.
 - ⚡ Fun fact: I love to trade forex and take photos / pictures at my spare time.
-- 📫 You can reach me on my social media accounts down below
+- 📫 How to reach me **thomasneo946@gmail.com**
 
 
 ### Connect with me:
@@ -34,6 +32,8 @@ As a Full Stack Web Developer, I'm keen to work on a team that solves problems c
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umbrellaskiies&show_icons=true&locale=en&layout=compact" alt="umbrellaskiies" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umbrellaskiies&show_icons=true&locale=en" alt="umbrellaskiies" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umbrellaskiies&" alt="umbrellaskiies" /></p>
 
 <!---
 UmbrellaSkiies/UmbrellaSkiies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
