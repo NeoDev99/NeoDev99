@@ -19,7 +19,7 @@ As a Full Stack Web Developer, I'm keen to work on a team that solves problems c
 - 👀 I’m interested in learning everything there is to learn about Technology.
 - 👨‍🎓 I completed my Diploma in Information Technology (IT) in 2022
 - 👯 I’m looking to collaborate on any project for the purpose of learning.
-- 🔭 I’m currently working on [README.md](https://github.com/UmbrellaSkiies/UmbrellaSkiies/edit/main/README.md)
+- 🔭 I’m currently working on [My-first-e-commerce-Website](https://github.com/UmbrellaSkiies/My-first-e-commerce-Website)
 - 🌱 I’m currently learning **MERN (MongoDB, Express.js, React, and Node.js) Stack**
 - 🥅 2023 Goals: Contribute & collaborate on more projects.
 - ⚡ Fun fact: I love to trade forex and take photos / pictures at my spare time.
