@@ -3,7 +3,7 @@
 ![Header](Github-Profile-Header/github-header-image.png)
 --->
 
-<h1 align="center">Hi 👋, I'm UmbrellaSkiies</h1>
+<h1 align="center">Hi 👋, I'm Neo Thomas Titebe</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umbrellaskiies&label=Profile%20views&color=0e75b6&style=flat" alt="umbrellaskiies" /> </p>
@@ -19,10 +19,10 @@ As a Full Stack Web Developer, I'm keen to work on a team that solves problems c
 - 👀 I’m interested in learning everything there is to learn about Technology.
 - 👨‍🎓 I completed my Diploma in Information Technology (IT) in 2022
 - 👯 I’m looking to collaborate on any project for the purpose of learning.
-- 🔭 I’m currently working on [My-first-e-commerce-Website](https://github.com/UmbrellaSkiies/My-first-e-commerce-Website)
+- 🔭 I’m currently working on [Image_Gallery](https://github.com/UmbrellaSkiies/Image_Gallery)
 - 🌱 I’m currently learning **MERN (MongoDB, Express.js, React, and Node.js) Stack**
 - 🥅 2023 Goals: Contribute & collaborate on more projects.
-- ⚡ Fun fact: I love to trade forex and take photos / pictures at my spare time.
+- ⚡ Fun fact: I love to trade forex and take photos/pictures in my spare time.
 - 📫 How to reach me **thomasneo946@gmail.com**
 
 
