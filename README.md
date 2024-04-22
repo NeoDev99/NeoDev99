@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umbrellaskiies&column=6&margin-w=15&margin-h=15" alt="umbrellaskiies" /></a> </p>
 
-As a Full Stack Web Developer, I'm keen to work on a team that solves problems creatively. I am able to pick up new technology rapidly and put them to use. Ruby on Rails, HTML5, CSS3, Javascript, jQuery, PHP, and Wordpress are among my expertises. Four years ago, I self-taught these abilities.
+As a Full Stack Web Developer, I'm keen to work on a team that solves problems creatively. I can pick up new technology rapidly and put them to use. Ruby on Rails, HTML5, CSS3, Javascript, jQuery, PHP, and WordPress are among my expertise. Four years ago, I self-taught these abilities.
 
 ## About Me
 
@@ -18,10 +18,10 @@ As a Full Stack Web Developer, I'm keen to work on a team that solves problems c
 
 - 👀 I’m interested in learning everything there is to learn about Technology.
 - 👨‍🎓 I completed my Diploma in Information Technology (IT) in 2022
-- 👯 I’m looking to collaborate on any project for the purpose of learning.
+- 👯 I’m looking to collaborate on any project for learning purposes.
 - 🔭 I’m currently working on [Image_Gallery](https://github.com/UmbrellaSkiies/Image_Gallery)
 - 🌱 I’m currently learning **MERN (MongoDB, Express.js, React, and Node.js) Stack**
-- 🥅 2023 Goals: Contribute & collaborate on more projects.
+- 🥅 2024 Goals: Contribute & collaborate on more projects.
 - ⚡ Fun fact: I love to trade forex and take photos/pictures in my spare time.
 - 📫 How to reach me **thomasneo946@gmail.com**
 
