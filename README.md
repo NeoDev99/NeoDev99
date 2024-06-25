@@ -14,7 +14,7 @@ As a Full Stack Web Developer, I'm keen to work on a team that solves problems c
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 - 👀 I’m interested in learning everything there is to learn about Technology.
 - 👨‍🎓 I completed my Diploma in Information Technology (IT) in 2022
