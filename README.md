@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/UmbrellaSkiies)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/NeoDev99)
 <!---
 ![Header](Github-Profile-Header/github-header-image.png)
 --->
@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Neo Thomas Titebe</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umbrellaskiies&label=Profile%20views&color=0e75b6&style=flat" alt="umbrellaskiies" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeoDev99&label=Profile%20views&color=0e75b6&style=flat" alt="umbrellaskiies" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umbrellaskiies&column=6&margin-w=15&margin-h=15" alt="umbrellaskiies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neodev99&column=6&margin-w=15&margin-h=15" alt="neodev99" /></a> </p>
 
-As a Full Stack Web Developer, I'm keen to work on a team that solves problems creatively. I can pick up new technology rapidly and put them to use. Ruby on Rails, HTML5, CSS3, Javascript, jQuery, PHP, and WordPress are among my expertise. Four years ago, I self-taught these abilities.
+As a Full Stack Web Developer, I want to work on a team that solves problems creatively. I can pick up new technology rapidly and put them to use. Ruby on Rails, HTML5, CSS3, Javascript, jQuery, PHP, and WordPress are among my areas of expertise. Four years ago, I self-taught these abilities.
 
 
 ## About Me
@@ -20,7 +20,7 @@ As a Full Stack Web Developer, I'm keen to work on a team that solves problems c
 - 👀 I’m interested in learning everything there is to learn about Technology.
 - 👨‍🎓 I completed my Diploma in Information Technology (IT) in 2022
 - 👯 I’m looking to collaborate on any project for learning purposes.
-- 🔭 I’m currently working on [Image_Gallery](https://github.com/UmbrellaSkiies/Image_Gallery)
+- 🔭 I’m currently working on [Image_Gallery](https://github.com/NeoDev99/Image_Gallery)
 - 🌱 I’m currently learning **MERN (MongoDB, Express.js, React, and Node.js) Stack**
 - 🥅 2024 Goals: Contribute & collaborate on more projects.
 - ⚡ Fun fact: I love to trade forex and take photos/pictures in my spare time.
@@ -124,11 +124,11 @@ As a Full Stack Web Developer, I'm keen to work on a team that solves problems c
 
 ## Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umbrellaskiies&show_icons=true&locale=en&layout=compact" alt="umbrellaskiies" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neodev99&show_icons=true&locale=en&layout=compact" alt="neodev99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umbrellaskiies&show_icons=true&locale=en" alt="umbrellaskiies" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neodev99&show_icons=true&locale=en" alt="umbrellaskiies" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umbrellaskiies&" alt="umbrellaskiies" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neodev99&" alt="umbrellaskiies" /></p>
 
 <!---
 UmbrellaSkiies/UmbrellaSkiies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
