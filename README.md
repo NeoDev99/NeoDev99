@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeoDev99&label=Profile%20views&color=0e75b6&style=flat" alt="umbrellaskiies" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neodev99&column=6&margin-w=15&margin-h=15" alt="neodev99" /></a> </p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=NeoDev99&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 As a Full Stack Web Developer, I want to work on a team that solves problems creatively. I can pick up new technology rapidly and put them to use. Ruby on Rails, HTML5, CSS3, Javascript, jQuery, PHP, and WordPress are among my areas of expertise. Four years ago, I self-taught these abilities.
 
